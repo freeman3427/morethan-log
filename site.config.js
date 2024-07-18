@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `freeman-log`,
-      href: "https://github.com/freeman3427/morethan-log",
+      href: "https://mini-cover-018.notion.site/Freeman-6043f1284403446b85d99227aa0852a2?pvs=4",
     },
   ],
   // blog setting (required)
